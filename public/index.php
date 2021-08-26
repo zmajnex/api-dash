@@ -43,4 +43,27 @@ require_once '../bootstrap.php';
         </div>
 </div>
 </div>
+<div class="container mt-5">
+<table class="table">
+    <thead>
+    <tr>
+        <th scope="col">product id</th>
+        <th scope="col">sku</th>
+        <th scope="col">name</th>
+        <th scope="col">price</th>
+        <th scope="col">status</th>
+        <th scope="col">sezona</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>12334</td>
+        <td>234455</td>
+        <td>Sava Trenta</td>
+        <td>12345</td>
+        <td>1</td>
+        <td>Zimska</td>
+    </tr>
+    </tbody>
+</table>
 </div>
