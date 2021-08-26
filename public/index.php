@@ -28,6 +28,19 @@ require_once '../bootstrap.php';
             </div>
         </form>
     </div>
+        <div class="col-sm">
+            <form>
+                <div class="form-group">
+            <select class="form-select" aria-label="manufacturers">
+                <option selected>Select manufacturer</option>
+                <option value="1">One</option>
+                <option value="2">Two</option>
+                <option value="3">Three</option>
+            </select>
+            <button type="submit" class="btn btn-primary mt-3">Show products</button>
+                </div>
+            </form>
+        </div>
 </div>
 </div>
 </div>
