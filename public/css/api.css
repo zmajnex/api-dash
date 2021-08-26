@@ -1,0 +1,30 @@
+.version {
+    display: inline-block;
+    padding: 0px 0 0 70px;
+    margin-top: 20px;
+}
+.circle-wrapper {
+    display: flex;
+}
+.yellow {
+    background-color: #c6c608;
+  }
+.green {
+    background-color: #008000FF;
+}
+.red {
+    background-color: #FF0000FF;
+}
+.border {
+    border: 1px solid #000000FF;
+}
+.circle {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+/*Buttons*/
+#start {
+    margin-right:25px!important;
+}
